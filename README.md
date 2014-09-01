@@ -1,4 +1,4 @@
-# Important Questions before starting any project
+# Important questions you should ask your client before beginning
 
 - How much do you plan to dedicate to this project?
 

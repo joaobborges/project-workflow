@@ -11,17 +11,29 @@
 # Logo Design
 
 - Brief
+
   Conduct a questionnaire or interview with the client to get the design brief.
+
 - Research
-  Conduct research focused on the industry itself, its history, and its competitors.
+
+	Conduct research focused on the industry itself, its history, and its competitors.
+
 - Reference
-  Conduct research into logo designs that have been successful and current styles and trends that are related to the design brief.
+
+	Conduct research into logo designs that have been successful and current styles and trends that are related to the design brief.
+
 - Sketch & Concept
-  Develop the logo design concepts around the brief and research.
+
+	Develop the logo design concepts around the brief and research.
+
 - Reflection
-  Take breaks throughout the design process. This allows your ideas to mature and lets you get renewed enthusiasm. Receive feedback.
+
+Take breaks throughout the design process. This allows your ideas to mature and lets you get renewed enthusiasm. Receive feedback.
+
 - Presentation
-  Choose to present only a select few logos to the client or a whole collection. Get feedback and repeat until completed.
+
+	Choose to present only a select few logos to the client or a whole collection. Get feedback and repeat until completed.
+
 - Delivery
 
 # Product
